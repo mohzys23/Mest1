@@ -4,11 +4,15 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Header from './Components/Header';
+import TopSection from './Components/TopSection';
+import AsideCenter from './Components/AsideCenter';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <Header />
+    <TopSection />
+    <AsideCenter />
   </React.StrictMode>,
   document.getElementById('root')
 );
