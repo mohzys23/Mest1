@@ -1,0 +1,35 @@
+nav {
+width: 100%;
+display: flex;
+}
+
+nav > div {
+   margin: 1rem 0;
+}
+img {
+    width: 30%;
+}
+
+.top-img {
+    width: 25%;
+    border-radius: 100%;
+   animation: App-logo-spin infinite 10s linear;
+   margin-left: 5rem;
+}
+
+ul {
+    margin-left: 23rem;
+    padding: .5rem;
+}
+
+li {
+display: inline;
+padding: 0 2.5rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
