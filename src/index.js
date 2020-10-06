@@ -9,7 +9,8 @@ import AsideCenter from './Components/AsideCenter';
 import Section from './Components/Section';
 import MidSection from './Components/MidSection';
 import BottomSection from './Components/BottomSection';
-
+import BuyButton from './Components/BuyButton';
+import Cost from './Components/Cost';
 
 
 
@@ -22,6 +23,9 @@ ReactDOM.render(
     <Section />
     <MidSection />
     <BottomSection />
+<BuyButton />
+<Cost />
+
   </React.StrictMode>,
   document.getElementById('root')
 );
