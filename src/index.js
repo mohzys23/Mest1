@@ -12,6 +12,7 @@ import BottomSection from './Components/BottomSection';
 import BuyButton from './Components/BuyButton';
 import Cost from './Components/Cost';
 import Footer from './Components/Footer';
+import Form from './Components/Form';
 
 
 
@@ -26,7 +27,7 @@ ReactDOM.render(
     <BottomSection />
 <BuyButton />
 <Cost />
-
+<Form />
 <Footer />
 
   </React.StrictMode>,
