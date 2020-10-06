@@ -2,8 +2,7 @@ nav {
 width: 100%;
 display: flex;
 }
-
-nav > div {
+.header {
    margin: 0 0;
 }
 img {

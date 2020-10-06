@@ -10,7 +10,7 @@ function AsideCenter() {
         <tr><td>#102</td><td>GUCCI</td><td>Blue & Black</td><td>12</td></tr>
             <tr><td>#103</td><td>ZARA</td><td>Yellow</td><td>6</td></tr>
                 <tr><td>#104</td><td>CALVIN KLEIN</td><td>Blue</td><td>10</td></tr>
-<tr><td>#105</td><td>LOUIS VUITON</td><td>Black</td><td>20</td></tr>
+<tr><td>#105</td><td>LOUIS VUITTON</td><td>Black</td><td>20</td></tr>
 
 
 </table>

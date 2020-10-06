@@ -5,7 +5,7 @@ import download from '../download.png';
 function Header () {
     return (
       <nav>
-          <div>
+          <div class="header">
 <img src={download} alt="code icon" class="top-img"/>
           </div>
           <div>

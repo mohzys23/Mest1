@@ -6,6 +6,12 @@ import * as serviceWorker from './serviceWorker';
 import Header from './Components/Header';
 import TopSection from './Components/TopSection';
 import AsideCenter from './Components/AsideCenter';
+import Section from './Components/Section';
+import MidSection from './Components/MidSection';
+
+
+
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -13,6 +19,8 @@ ReactDOM.render(
     <Header />
     <TopSection />
     <AsideCenter />
+    <Section />
+    <MidSection />
   </React.StrictMode>,
   document.getElementById('root')
 );
