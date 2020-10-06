@@ -8,7 +8,7 @@ import TopSection from './Components/TopSection';
 import AsideCenter from './Components/AsideCenter';
 import Section from './Components/Section';
 import MidSection from './Components/MidSection';
-
+import BottomSection from './Components/BottomSection';
 
 
 
@@ -21,6 +21,7 @@ ReactDOM.render(
     <AsideCenter />
     <Section />
     <MidSection />
+    <BottomSection />
   </React.StrictMode>,
   document.getElementById('root')
 );
