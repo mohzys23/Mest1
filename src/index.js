@@ -11,6 +11,7 @@ import MidSection from './Components/MidSection';
 import BottomSection from './Components/BottomSection';
 import BuyButton from './Components/BuyButton';
 import Cost from './Components/Cost';
+import Footer from './Components/Footer';
 
 
 
@@ -25,6 +26,8 @@ ReactDOM.render(
     <BottomSection />
 <BuyButton />
 <Cost />
+
+<Footer />
 
   </React.StrictMode>,
   document.getElementById('root')
